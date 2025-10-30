@@ -37,7 +37,7 @@ I'm a passionate Python Developer with experience in AI/Ml field. I love tacklin
 
 ## Get in Touch 📬
 
-- **[LeetCode]**([your_website_or_blog_link](https://leetcode.com/u/sakshamsharma1523/))
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/saksham1sharma/))
+- (**[LeetCode](https://leetcode.com/u/sakshamsharma1523/)**)
+- (**[LinkedIn](https://www.linkedin.com/in/saksham1sharma/)**)
 
 
