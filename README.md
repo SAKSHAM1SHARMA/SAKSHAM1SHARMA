@@ -5,10 +5,10 @@
 
 I'm a passionate Python Developer with experience in AI/Ml field. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **Full Stack Development using Django**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[sakshamsharma1523@gmail.com]**
+- 🌍 Languages: **English(Upper Intermediate),Hindi(Native)**
+- 📫 How to reach me: **sakshamsharma1523@gmail.com**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
