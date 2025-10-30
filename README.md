@@ -13,11 +13,11 @@ I'm a passionate Python Developer with experience in AI/Ml field. I love tacklin
 
 ## My Skills 🧠
 
-![Python](https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/-C-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
