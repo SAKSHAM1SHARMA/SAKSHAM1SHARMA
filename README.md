@@ -9,7 +9,6 @@ I'm a passionate Python Developer with experience in AI/Ml field. I love tacklin
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **English(Upper Intermediate),Hindi(Native)**
 - 📫 How to reach me: **sakshamsharma1523@gmail.com**
-- ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
 
@@ -27,11 +26,12 @@ I'm a passionate Python Developer with experience in AI/Ml field. I love tacklin
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [MoviesRecommendationSystem](https://moviesrecommendationsystem-94z4pvuruaa6szn5c6vdn7.streamlit.app/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/396ab3d7-b64e-4337-b2a2-b83b8e44cbe0" />
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+[MoviesRecommendationSystem] is a [content-based recommendation system that suggests films by matching the genre, cast, and director of a user's selected movie] built with [Python, Pandas, Scikit-learn, and Streamlit]. This project demonstrates my ability to [implement content-based filtering using cosine similarity, perform feature engineering on text data, and deploy a machine learning model as an interactive web app]. You can check out the repository here.
 
 ### [Project 2 Title](project_2_link)
 
