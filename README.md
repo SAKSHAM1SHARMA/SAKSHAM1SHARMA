@@ -33,11 +33,6 @@ I'm a passionate Python Developer with experience in AI/Ml field. I love tacklin
 
 **MoviesRecommendationSystem** is a **content-based recommendation system that suggests films by matching the genre, cast, and director of a user's selected movie** built with **Python, Pandas, Scikit-learn, and Streamlit**. This project demonstrates my ability to **implement content-based filtering using cosine similarity, perform feature engineering on text data, and deploy a machine learning model as an interactive web app**. You can check out the repository [here](https://github.com/SAKSHAM1SHARMA/MoviesRecommendationSystem).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 - **[LinkedIn](https://www.linkedin.com/in/saksham1sharma/)**
